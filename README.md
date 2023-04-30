@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fall2019&show_icons=true&include_all_commits=true&theme=aura&hide_border=true" alt="fall2019's github stats"/>
 <!--
 **fall2019/fall2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
